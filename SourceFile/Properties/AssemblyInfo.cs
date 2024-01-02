@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊是由下列的屬性集控制。
 // 變更這些屬性的值即可修改組件的相關
 // 資訊。
-[assembly: AssemblyTitle("DownloadWebImage")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Download Web Image File")]
+[assembly: AssemblyDescription("下載網站上的圖檔")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP Inc.")]
+[assembly: AssemblyCompany("NetMan Corp.")]
 [assembly: AssemblyProduct("DownloadWebImage")]
-[assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
+[assembly: AssemblyCopyright("Copyright © NetMan Corp. 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
