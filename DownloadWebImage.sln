@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.33801.198
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadWebImage", "SourceFile\DownloadWebImage.csproj", "{99217477-150D-41AA-8E74-F608E86F68E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadWebImage", "SourceCode\DownloadWebImage.csproj", "{99217477-150D-41AA-8E74-F608E86F68E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
